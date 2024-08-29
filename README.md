@@ -1,0 +1,1 @@
+These are a few project that i either worked on through FreeCodeCamp or just personal projects
